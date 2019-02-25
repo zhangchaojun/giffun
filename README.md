@@ -16,6 +16,7 @@
 
 <img src="screenshots/install_qrcode.png" width="180">
 
+---
 
 ## 屏幕截图
 
@@ -26,6 +27,7 @@
 <img src="screenshots/screenshot5.png" width="25%" />
 <img src="screenshots/screenshot6.png" width="25%" />
 
+---
 
 ## License
 
