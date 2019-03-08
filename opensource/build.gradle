@@ -34,5 +34,4 @@ androidExtensions {
 dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')
     implementation project(':main')
-    testImplementation 'junit:junit:4.12'
 }
